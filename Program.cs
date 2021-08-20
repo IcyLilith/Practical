@@ -12,7 +12,7 @@ namespace Practical
             Console.WriteLine("Please provide your course name: ");
             string subject = Console.ReadLine();
 
-            Console.WriteLine("Student " + icas + " is in the " + subject + "course");
+            Console.WriteLine("Student " + icas + " is in the " + subject + " course.");
         }
     }
 }
