@@ -13,6 +13,7 @@ namespace Practical
             string subject = Console.ReadLine();
 
             Console.WriteLine("Student " + icas + " is in the " + subject + " course.");
+            Console.WriteLine("Hello");
         }
     }
 }
